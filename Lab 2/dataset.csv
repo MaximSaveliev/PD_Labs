@@ -1,0 +1,31 @@
+Day,Temperature,Pressure,Cloudiness,Wind
+1,+22,756,https://st6.gismeteo.ru/static/diary/img/suncl.png,СЗ 5м/с
+2,+29,759,https://st6.gismeteo.ru/static/diary/img/sun.png,2м/с
+3,+29,757,https://st5.gismeteo.ru/static/diary/img/suncl.png,3м/с
+4,+21,758,https://st6.gismeteo.ru/static/diary/img/sun.png,С 7м/с
+5,+26,760,https://st4.gismeteo.ru/static/diary/img/sun.png,С 7м/с
+6,+26,761,https://st7.gismeteo.ru/static/diary/img/sun.png,СВ 4м/с
+7,+27,761,https://st5.gismeteo.ru/static/diary/img/sun.png,С 5м/с
+8,+24,761,https://st8.gismeteo.ru/static/diary/img/sun.png,С 4м/с
+9,+26,758,https://st6.gismeteo.ru/static/diary/img/sun.png,С 6м/с
+10,+23,761,https://st4.gismeteo.ru/static/diary/img/sun.png,3м/с
+11,+25,758,https://st8.gismeteo.ru/static/diary/img/sun.png,2м/с
+12,+27,758,https://st7.gismeteo.ru/static/diary/img/sun.png,ЮЗ 3м/с
+13,+28,757,https://st5.gismeteo.ru/static/diary/img/sun.png,ЮЗ 5м/с
+14,+30,755,https://st8.gismeteo.ru/static/diary/img/sun.png,2м/с
+15,+25,758,https://st7.gismeteo.ru/static/diary/img/dull.png,С 4м/с
+16,+23,762,https://st5.gismeteo.ru/static/diary/img/dull.png,С 3м/с
+17,+26,762,https://st8.gismeteo.ru/static/diary/img/sun.png,Ю 4м/с
+18,+27,761,https://st6.gismeteo.ru/static/diary/img/sun.png,В 5м/с
+19,+27,757,https://st4.gismeteo.ru/static/diary/img/sun.png,Ю 6м/с
+20,+24,757,https://st7.gismeteo.ru/static/diary/img/sunc.png,С 3м/с
+21,+26,756,https://st5.gismeteo.ru/static/diary/img/suncl.png,2м/с
+22,+27,756,https://st4.gismeteo.ru/static/diary/img/sun.png,Ю 7м/с
+23,+29,757,https://st7.gismeteo.ru/static/diary/img/sun.png,Ю 5м/с
+24,+28,758,https://st5.gismeteo.ru/static/diary/img/sun.png,В 3м/с
+25,+29,761,https://st8.gismeteo.ru/static/diary/img/sun.png,В 6м/с
+26,+29,763,https://st6.gismeteo.ru/static/diary/img/sun.png,В 6м/с
+27,+29,762,https://st4.gismeteo.ru/static/diary/img/sun.png,В 7м/с
+28,+28,760,https://st7.gismeteo.ru/static/diary/img/sun.png,СВ 7м/с
+29,+29,760,https://st5.gismeteo.ru/static/diary/img/sun.png,В 6м/с
+30,+28,758,https://st8.gismeteo.ru/static/diary/img/sun.png,С 4м/с
