@@ -1,0 +1,3 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Superman,"Eminem, Dina Rae",2,7615,14,655466831,18,51,"1,005",0,0,130,E,Minor,80,64,76,2,0,20,6,2002-05-26,2002-21
+'Till I Collapse,"Eminem, Nate Dogg",2,22923,0,1695712020,78,46,"2,515",1,0,171,C#,Major,55,10,85,7,0,8,20,2002-05-26,2002-21

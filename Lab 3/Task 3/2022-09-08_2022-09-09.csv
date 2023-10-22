@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Vista Al Mar,Quevedo,1,1769,34,362361576,16,19,21,3,4,105,,Minor,76,49,56,80,12,10,13,2022-09-08,2022-36
+Evoque Prata,"DJ Escobar, MC MENOR SG, MC MENOR HR",3,852,0,174006928,14,1,50,0,0,87,G,Major,87,52,52,31,0,28,24,2022-09-09,2022-36
+Forget Me,Lewis Capaldi,1,2520,4,239411309,93,95,84,9,202,102,C#,Minor,67,72,74,30,0,36,4,2022-09-09,2022-36

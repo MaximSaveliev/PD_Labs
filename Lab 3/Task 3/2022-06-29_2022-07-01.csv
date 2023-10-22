@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Bad Habit,Steve Lacy,1,8186,12,822633917,155,72,131,16,29,169,C#,Major,69,69,51,63,0,38,4,2022-06-29,2022-26
+MORE,j-hope,1,565,0,155795783,6,52,11,0,0,97,D,Major,78,31,72,1,0,11,4,2022-07-01,2022-26
+Hot Shit (feat. Ye & Lil Durk),"Kanye West, Lil Durk, Cardi B",3,1601,0,85924992,11,0,2,0,0,157,A,Major,88,52,69,0,0,8,23,2022-07-01,2022-26
+Casei Com a Putaria,"MC Ryan SP, Love Funk, Mc Paiva ZS",3,648,4,187701588,0,0,30,0,0,161,A#,Minor,59,62,60,12,0,5,44,2022-07-01,2022-26

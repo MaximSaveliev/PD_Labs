@@ -1,0 +1,6 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Daylight,David Kushner,1,3528,98,387570742,80,156,182,24,"1,281",130,D,Minor,51,32,43,83,0,9,3,2023-04-14,2023-15
+Chemical,Post Malone,1,2528,39,172825906,56,91,59,3,486,170,D,Major,50,37,90,0,0,12,5,2023-04-14,2023-15
+������������,YOASOBI,1,356,16,143573775,35,102,8,1,117,166,C#,Major,57,84,94,11,0,37,9,2023-04-12,2023-15
+I AM,IVE,1,366,15,123132751,16,102,7,0,55,122,E,Minor,68,38,88,1,0,8,5,2023-04-10,2023-15
+Princess Diana (with Nicki Minaj),"Nicki Minaj, Ice Spice",2,1444,4,104992946,0,0,0,0,0,148,A,Major,90,74,68,14,0,10,19,2023-04-14,2023-15

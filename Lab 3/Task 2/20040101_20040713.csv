@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Mockingbird,Eminem,1,2004,1,1,12985,61,1241559043,49,98,"2,394",5,204,84,E,Minor,62,24,67,21,0,13,28,2004-01-01
+Somewhere Only We Know,Keane,1,2004,1,1,20015,16,1089402494,107,69,"5,239",0,558,172,A,Major,45,33,59,6,0,8,3,2004-01-01
+Gasolina,Daddy Yankee,1,2004,7,13,6457,18,657723613,98,95,453,0,454,96,,Major,86,74,80,33,0,8,6,2004-07-13
+Yo Voy (feat. Daddy Yankee),Zion & Lennox,1,2004,5,4,2954,2,527033089,18,82,0,0,5,95,A#,Major,81,56,70,4,0,5,24,2004-05-04

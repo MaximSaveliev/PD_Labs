@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Those Eyes,New West,1,1507,14,411747614,24,71,44,1,195,120,E,Major,60,24,35,73,0,31,3,2019-05-10,2019-18
+Heart To Heart,Mac DeMarco,1,1640,0,244658767,27,27,29,1,1,150,G#,Minor,90,64,14,67,35,11,10,2019-05-10,2019-18
+Dance Monkey,Tones and I,1,24529,0,2864791672,533,167,"3,595",6,,98,F#,Minor,82,54,59,69,0,18,10,2019-05-10,2019-18

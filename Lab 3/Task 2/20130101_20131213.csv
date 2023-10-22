@@ -1,0 +1,14 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+I Wanna Be Yours,Arctic Monkeys,1,2013,1,1,12859,110,1297026226,24,98,582,2,73,135,,Minor,48,44,42,12,2,11,3,2013-01-01
+Counting Stars,OneRepublic,1,2013,1,1,29215,43,2011464183,179,97,"3,394",11,153,122,C#,Minor,66,48,71,6,0,12,4,2013-01-01
+Do I Wanna Know?,Arctic Monkeys,1,2013,1,1,33783,26,1788326445,133,92,"2,733",1,26,85,F,Major,55,42,53,17,0,22,3,2013-01-01
+Why'd You Only Call Me When You're High?,Arctic Monkeys,1,2013,1,1,23389,29,1267333350,54,70,"1,089",2,1,92,D,Major,70,81,63,4,0,8,4,2013-01-01
+Take Me To Church,Hozier,1,2013,9,13,23804,31,2135158446,187,99,"4,623",1,0,129,E,Minor,57,41,66,63,0,12,5,2013-09-13
+Santa Tell Me,Ariana Grande,1,2013,12,13,9408,0,834129063,231,106,439,0,,133,G,Major,46,53,63,5,0,30,18,2013-12-13
+Underneath the Tree,Kelly Clarkson,1,2013,10,25,6596,0,485285717,144,99,251,0,0,160,G#,Major,51,69,81,0,0,21,5,2013-10-25
+All of Me,John Legend,1,2013,8,1,27221,0,2086124197,308,118,"4,534",2,77,120,G#,Major,42,33,26,92,0,13,3,2013-08-01
+Ginseng Strip 2002,Yung Lean,1,2013,8,16,4310,0,240769997,13,0,113,1,3,115,C#,Major,60,37,71,8,0,48,4,2013-08-16
+Thinking with My Dick,"Kevin Gates, Juicy J",2,2013,7,16,1550,0,109091573,0,0,14,0,0,81,,Major,77,68,70,6,0,17,20,2013-07-16
+Wake Me Up - Radio Edit,Avicii,1,2013,1,1,50887,34,1970673297,315,160,"6,284",1,46,124,D,Major,53,66,78,0,0,16,5,2013-01-01
+Get Lucky - Radio Edit,"Pharrell Williams, Nile Rodgers, Daft Punk",3,2013,1,1,52898,0,933815613,203,1,"8,215",0,0,116,F#,Minor,79,87,81,4,0,10,4,2013-01-01
+Bound 2,Kanye West,1,2013,1,1,19806,7,703301727,33,11,274,0,0,149,C#,Major,37,28,66,14,0,9,5,2013-01-01

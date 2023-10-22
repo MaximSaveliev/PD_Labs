@@ -1,0 +1,2 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Sweet Child O' Mine,Guns N' Roses,1,1987,1,1,41231,1,1553497987,228,151,"6,720",3,99,125,F#,Major,45,67,90,9,11,10,5,1987-01-01

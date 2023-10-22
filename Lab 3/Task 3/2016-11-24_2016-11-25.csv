@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Die For You,The Weeknd,1,2483,59,1647990401,68,21,24,0,259,134,C#,Minor,59,51,52,9,0,15,7,2016-11-24,2016-47
+Stargirl Interlude,"The Weeknd, Lana Del Rey",2,1275,32,611700552,13,8,5,0,1,90,F,Minor,59,52,48,38,5,10,11,2016-11-24,2016-47
+Reminder,The Weeknd,1,6518,17,684675814,45,85,238,1,47,160,G#,Major,71,40,50,16,0,16,22,2016-11-25,2016-47

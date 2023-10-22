@@ -1,0 +1,12 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Makeba,Jain,1,2015,6,22,6060,53,165484133,150,148,"2,703",22,"1,451",116,D,Major,82,40,66,39,51,25,7,2015-06-22
+The Night We Met,Lord Huron,1,2015,2,2,18515,35,1410088830,70,82,939,1,162,174,D,Major,45,10,37,97,25,64,4,2015-02-02
+The Hills,The Weeknd,1,2015,5,27,25744,4,1947371785,122,94,"1,992",0,18,136,,Minor,36,12,57,9,0,14,8,2015-05-27
+Space Song,Beach House,1,2015,1,1,17852,4,789753877,69,76,335,0,,147,,Minor,51,62,79,22,13,14,3,2015-01-01
+Atlantis,Seafret,1,2015,4,22,3045,6,571386359,43,53,134,1,32,166,G#,Minor,40,23,48,5,0,12,3,2015-04-22
+Freaks,Surf Curse,1,2015,5,10,3006,3,824420218,23,21,121,0,13,180,A,Major,35,41,94,0,63,5,5,2015-05-10
+Daddy Issues,The Neighbourhood,1,2015,10,30,9771,4,1127468248,42,70,384,0,3,85,A#,Major,59,33,52,7,15,12,3,2015-10-30
+Alien Blues,Vundabar,1,2015,7,24,1930,0,370068639,3,0,28,0,1,82,D#,Major,47,44,76,8,91,9,3,2015-07-24
+Wait a Minute!,Willow,1,2015,1,11,11985,0,924193303,79,80,250,3,10,101,D#,Minor,76,63,71,3,0,10,3,2015-01-11
+Cool for the Summer,Demi Lovato,1,2015,1,1,9243,0,677389855,155,5,577,0,6,114,F,Minor,59,30,62,1,0,8,4,2015-01-01
+Love Yourself,Justin Bieber,1,2015,11,9,22730,5,2123309722,289,87,"2,430",0,36,100,E,Major,61,53,38,84,0,28,44,2015-11-09

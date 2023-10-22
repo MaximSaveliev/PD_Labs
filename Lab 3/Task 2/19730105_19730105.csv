@@ -1,0 +1,2 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Dream On,Aerosmith,1,1973,1,5,168,0,838586769,0,0,5,0,0,80,F,Minor,39,24,43,39,0,23,3,1973-01-05

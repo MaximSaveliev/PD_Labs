@@ -1,0 +1,3 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Jingle Bell Rock,Bobby Helms,1,10326,0,741301563,165,99,104,0,,119,D,Major,74,78,37,84,0,6,3,1957-01-01,1957-00
+Jingle Bells - Remastered 1999,Frank Sinatra,1,4326,0,178660459,32,3,65,0,0,175,G#,Major,51,94,34,73,0,10,5,1957-01-01,1957-00

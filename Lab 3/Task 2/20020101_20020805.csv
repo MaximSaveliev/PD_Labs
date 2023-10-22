@@ -1,0 +1,7 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Without Me,Eminem,1,2002,1,1,21081,43,1687664027,98,76,"3,889",5,0,112,G,Major,92,67,66,0,0,36,9,2002-01-01
+Lose Yourself - Soundtrack Version,Eminem,1,2002,1,1,32502,21,1829992958,247,54,"5,567",1,51,171,D,Major,70,6,73,1,0,36,26,2002-01-01
+Superman,"Eminem, Dina Rae",2,2002,5,26,7615,14,655466831,18,51,"1,005",0,0,130,E,Minor,80,64,76,2,0,20,6,2002-05-26
+'Till I Collapse,"Eminem, Nate Dogg",2,2002,5,26,22923,0,1695712020,78,46,"2,515",1,0,171,C#,Major,55,10,85,7,0,8,20,2002-05-26
+In Da Club,50 Cent,1,2002,1,1,30427,7,1202722675,235,106,"5,221",1,35,90,F#,Minor,90,79,71,26,0,7,37,2002-01-01
+The Scientist,Coldplay,1,2002,8,5,30992,6,1608164312,124,25,"7,827",1,0,146,F,Major,56,21,44,73,0,11,2,2002-08-05

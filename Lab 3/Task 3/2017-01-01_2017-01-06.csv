@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Perfect,Ed Sheeran,1,16596,13,2559529074,7,0,"2,094",0,0,95,G#,Major,60,17,45,16,0,11,2,2017-01-01,2017-01
+Shape of You,Ed Sheeran,1,32181,10,3562543890,33,0,"6,808",7,0,96,C#,Minor,83,93,65,58,0,9,8,2017-01-06,2017-01
+Snowman,Sia,1,5140,0,690104769,85,110,500,0,,105,C#,Major,72,33,51,48,0,9,3,2017-01-01,2017-01

@@ -1,0 +1,3 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Smells Like Teen Spirit - Remastered 2021,Nirvana,1,1991,9,10,49991,9,1690192927,265,121,"12,367",4,160,117,C#,Major,52,73,91,0,0,11,7,1991-09-10
+Something In The Way - Remastered 2021,Nirvana,1,1991,9,24,9514,0,368646862,45,27,"1,197",0,43,106,G#,Major,44,8,20,74,42,11,3,1991-09-24

@@ -1,0 +1,3 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+good 4 u,Olivia Rodrigo,1,15563,6,1887039593,259,55,461,1,,166,F#,Minor,56,68,66,28,0,11,18,2021-05-14,2021-19
+295,Sidhu Moose Wala,1,246,4,183273246,4,106,0,0,7,90,B,Minor,68,54,76,21,0,11,20,2021-05-15,2021-19

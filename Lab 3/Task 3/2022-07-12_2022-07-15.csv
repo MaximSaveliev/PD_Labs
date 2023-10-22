@@ -1,0 +1,8 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+golden hour,JVKE,1,4511,36,751134527,70,58,109,18,230,94,C#,Minor,51,14,59,65,18,25,3,2022-07-15,2022-28
+Nonsense,Sabrina Carpenter,1,2346,27,342897938,69,12,38,8,64,139,G#,Major,74,68,68,3,0,26,4,2022-07-15,2022-28
+About Damn Time,Lizzo,1,2332,2,723894473,0,0,25,0,0,109,A#,Minor,84,72,74,10,0,34,7,2022-07-15,2022-28
+"Come Back Home - From ""Purple Hearts""",Sofia Carson,1,367,0,97610446,28,67,195,0,0,145,G,Major,56,43,53,24,0,12,4,2022-07-12,2022-28
+"Stay With Me (with Justin Timberlake, Halsey, & Pharrell)","Calvin Harris, Halsey, Pharrell Williams, Justin Timberlake",4,3113,0,123473120,54,6,124,1,0,126,A,Major,81,90,73,28,0,29,4,2022-07-15,2022-28
+Static,Steve Lacy,1,1613,0,202452860,21,15,13,0,0,79,C#,Major,34,22,31,43,63,10,7,2022-07-15,2022-28
+2 Be Loved (Am I Ready),Lizzo,1,3682,6,247689123,41,0,158,2,68,156,G,Major,72,92,77,9,0,8,11,2022-07-14,2022-28

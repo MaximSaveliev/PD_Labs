@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Sweetest Pie,"Dua Lipa, Megan Thee Stallion",2,3501,0,299634472,69,2,51,11,0,124,G,Major,81,68,63,17,0,10,22,2022-03-11,2022-10
+Stefania (Kalush Orchestra),KALUSH,1,555,0,53729194,10,4,4,0,0,105,D,Major,83,32,82,14,0,12,4,2022-03-10,2022-10
+THE SHADE,Rex Orange County,1,1189,6,244928911,17,10,16,0,4,120,F,Major,90,73,51,39,0,9,6,2022-03-11,2022-10

@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Danza Kuduro,"Don Omar, Lucenzo",2,17138,37,1279434863,119,81,974,1,503,130,,Major,47,86,92,8,0,5,24,2010-01-01,2010-00
+Enchanted,Taylor Swift,1,4564,16,621660989,24,101,113,0,40,164,G#,Major,45,24,62,8,0,16,3,2010-01-01,2010-00
+Just The Way You Are,Bruno Mars,1,21106,13,1641426668,82,0,"2,946",0,0,109,F,Major,63,46,85,1,0,9,5,2010-01-01,2010-00

@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+A Tu Merced,Bad Bunny,1,4214,11,685071800,21,20,40,0,0,92,,Major,86,89,79,17,0,11,6,2020-02-29,2020-08
+La Santa,"Daddy Yankee, Bad Bunny",2,4890,20,759208783,52,42,100,0,0,93,C#,Major,74,59,87,3,0,8,5,2020-02-29,2020-08
+La Zona,Bad Bunny,1,1188,0,312622938,13,1,15,0,1,94,C#,Minor,76,81,80,20,0,25,4,2020-02-29,2020-08

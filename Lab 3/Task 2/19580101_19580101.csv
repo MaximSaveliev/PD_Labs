@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Rockin' Around The Christmas Tree,Brenda Lee,1,1958,1,1,14994,0,769213520,191,168,206,0,,140,G#,Major,70,85,41,71,0,45,5,1958-01-01
+It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",3,1958,1,1,6290,0,295998468,89,39,158,0,0,113,G,Major,73,72,32,77,0,15,5,1958-01-01
+Run Rudolph Run - Single Version,Chuck Berry,1,1958,1,1,8612,0,245350949,120,30,52,0,1,152,G,Minor,69,94,71,79,0,7,8,1958-01-01

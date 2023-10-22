@@ -1,0 +1,9 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Columbia,Quevedo,1,714,43,58149378,25,89,30,13,194,100,F,Major,67,26,71,37,0,11,4,2023-07-07,2023-27
+Super Shy,NewJeans,1,422,55,58255150,37,202,21,5,168,150,F,Minor,78,52,82,18,0,15,7,2023-07-07,2023-27
+I Can See You (Taylor���s Version) (From The ,Taylor Swift,1,516,38,52135248,73,119,42,1,150,123,F#,Major,69,82,76,6,0,6,3,2023-07-07,2023-27
+Enchanted (Taylor's Version),Taylor Swift,1,148,24,39578178,32,93,8,2,5,82,G#,Major,51,22,53,1,0,15,3,2023-07-07,2023-27
+Back To December (Taylor's Version),Taylor Swift,1,139,17,39228929,16,72,5,0,8,142,D,Major,50,20,64,1,0,12,3,2023-07-07,2023-27
+New Jeans,NewJeans,1,77,35,29562220,8,166,4,4,34,134,E,Minor,81,53,72,51,0,12,5,2023-07-07,2023-27
+Mine (Taylor's Version),Taylor Swift,1,99,15,36912123,21,52,6,1,0,121,G,Major,65,49,78,0,0,17,4,2023-07-07,2023-27
+Better Than Revenge (Taylor's Version),Taylor Swift,1,86,11,30343206,3,33,3,0,1,146,B,Minor,50,67,89,0,0,19,8,2023-07-07,2023-27

@@ -1,0 +1,9 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Dance The Night (From Barbie The Album),Dua Lipa,1,2988,101,127408954,0,0,143,38,0,110,B,Minor,67,78,85,2,0,33,5,2023-05-25,2023-21
+"Tere Vaaste (From ""Zara Hatke Zara Bachke"")","Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya, Varun Jain",5,182,8,54225632,3,88,1,0,52,110,G,Minor,76,96,72,32,0,9,4,2023-05-22,2023-21
+Bye,Peso Pluma,1,324,14,95053634,13,110,8,2,60,122,,Major,78,70,81,57,0,10,5,2023-05-26,2023-21
+Hits Different,Taylor Swift,1,547,0,68616963,15,15,6,0,0,106,F,Major,67,24,78,15,0,30,4,2023-05-26,2023-21
+Karma (feat. Ice Spice),"Taylor Swift, Ice Spice",2,588,0,46142772,23,21,31,0,0,90,G#,Major,62,7,62,6,0,58,6,2023-05-26,2023-21
+Snow On The Beach (feat. More Lana Del Rey),"Lana Del Rey, Taylor Swift",2,359,2,60350538,1,0,9,0,0,110,F#,Minor,66,32,40,81,0,11,3,2023-05-26,2023-21
+Bite Me,ENHYPEN,1,349,69,76767396,8,96,5,0,56,105,C#,Major,80,69,78,28,0,11,14,2023-05-22,2023-21
+Stand By Me (feat. Morgan Wallen),"Lil Durk, Morgan Wallen",2,381,5,46065667,23,82,6,0,113,134,B,Major,76,61,58,6,0,16,3,2023-05-26,2023-21

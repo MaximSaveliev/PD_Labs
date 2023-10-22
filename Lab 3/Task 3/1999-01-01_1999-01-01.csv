@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Yellow,Chris Molitor,1,31358,43,1755214421,196,2,"4,053",5,0,173,B,Major,43,28,66,0,0,23,3,1999-01-01,1999-00
+Still D.R.E.,"Dr. Dre, Snoop Dogg",2,33966,0,1210599487,141,78,"6,591",1,0,93,B,Major,81,53,78,18,0,6,24,1999-01-01,1999-00
+The Next Episode,"Dr. Dre, Snoop Dogg",2,31762,0,843309044,142,40,"5,451",1,953,95,D#,Minor,92,31,89,3,0,8,25,1999-01-01,1999-00
+Forgot About Dre,"Eminem, Dr. Dre",2,19067,0,675039469,78,15,"1,674",0,3,134,G#,Major,93,61,74,9,0,17,8,1999-01-01,1999-00

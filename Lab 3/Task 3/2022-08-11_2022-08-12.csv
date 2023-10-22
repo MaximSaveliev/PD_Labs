@@ -1,0 +1,3 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Super Freaky Girl,Nicki Minaj,1,4827,0,428685680,104,17,76,9,2,133,D,Major,95,91,89,6,0,31,24,2022-08-12,2022-32
+Limbo,Freddie Dredd,1,688,0,199386237,14,1,17,0,2,75,B,Minor,80,46,62,3,6,11,46,2022-08-11,2022-32

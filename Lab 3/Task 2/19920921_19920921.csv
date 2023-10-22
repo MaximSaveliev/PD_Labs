@@ -1,0 +1,2 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Creep,Radiohead,1,1992,9,21,36724,7,1271293243,146,72,"6,807",5,80,92,G,Major,53,12,34,1,0,12,4,1992-09-21

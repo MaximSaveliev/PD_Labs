@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Without Me,Eminem,1,21081,43,1687664027,98,76,"3,889",5,0,112,G,Major,92,67,66,0,0,36,9,2002-01-01,2002-00
+Lose Yourself - Soundtrack Version,Eminem,1,32502,21,1829992958,247,54,"5,567",1,51,171,D,Major,70,6,73,1,0,36,26,2002-01-01,2002-00
+In Da Club,50 Cent,1,30427,7,1202722675,235,106,"5,221",1,35,90,F#,Minor,90,79,71,26,0,7,37,2002-01-01,2002-00
