@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Cupido,Tini,1,1240,24,217672943,51,29,63,4,54,120,A,Major,91,63,58,52,0,31,22,2023-02-14,2023-07
+Oi Balde - Ao Vivo,Z�� Neto & Crist,1,845,2,145458418,12,57,47,1,33,108,D,Major,67,55,67,60,0,80,5,2023-02-14,2023-07
+Heaven,Niall Horan,1,1553,2,144584800,61,6,48,0,150,92,F,Major,57,68,76,7,0,33,3,2023-02-17,2023-07

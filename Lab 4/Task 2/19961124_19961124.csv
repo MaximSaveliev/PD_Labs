@@ -1,0 +1,2 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+Sigue,"Ed Sheeran, J Balvin",2,1996,11,24,1370,0,106933107,46,8,60,0,0,88,G,Major,89,59,64,5,0,19,7,1996-11-24

@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+un x100to,"Bad Bunny, Grupo Frontera",2,2876,40,505671438,41,205,54,12,251,83,F#,Minor,57,56,72,23,0,27,5,2023-04-17,2023-16
+Ni��a Bo,"Sean Paul, Feid",2,1305,34,115010040,29,26,43,5,44,91,G,Major,82,47,62,10,0,10,15,2023-04-21,2023-16
+Haegeum,Agust D,1,244,12,118810253,6,84,10,2,9,85,G,Major,70,83,84,31,0,47,30,2023-04-21,2023-16
+Double Fantasy (with Future),"The Weeknd, Future",2,1169,0,96180277,36,65,28,0,0,119,A,Minor,60,10,57,1,0,50,3,2023-04-21,2023-16

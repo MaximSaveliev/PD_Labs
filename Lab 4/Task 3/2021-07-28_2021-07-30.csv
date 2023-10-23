@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Where Are You Now,"Lost Frequencies, Calum Scott",2,10565,44,972509632,238,122,557,17,58,121,F#,Minor,67,26,64,52,0,17,10,2021-07-30,2021-30
+Happier Than Ever,Billie Eilish,1,8476,0,1056760045,138,133,283,0,,65,,Major,31,31,24,76,0,14,4,2021-07-30,2021-30
+Happier Than Ever - Edit,Billie Eilish,1,1959,0,412795151,19,0,38,0,0,81,,Major,45,12,57,7,0,23,3,2021-07-28,2021-30

@@ -1,0 +1,10 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+WHERE SHE GOES,Bad Bunny,1,3133,50,303236322,84,133,87,15,425,144,A,Minor,65,23,80,14,63,11,6,2023-05-18,2023-20
+fukumean,Gunna,1,1096,83,95217315,60,210,48,11,953,130,C#,Minor,85,22,62,12,0,28,9,2023-05-15,2023-20
+TQM,Fuerza Regida,1,584,28,176553476,16,159,15,6,100,125,F,Minor,79,96,85,27,0,11,6,2023-05-19,2023-20
+Queencard,(G)I-DLE,1,451,33,96273746,10,126,7,0,148,130,E,Minor,82,69,83,3,0,27,5,2023-05-15,2023-20
+Novo Balan�,"Veigh, Bvga Beatz, Supernova Ent, Prod Malax",4,283,7,81102253,6,9,26,1,66,124,D#,Minor,84,65,50,67,0,13,6,2023-05-19,2023-20
+Cheques,Shubh,1,67,8,47956378,7,10,0,0,57,90,E,Minor,74,36,63,26,0,27,5,2023-05-19,2023-20
+"Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")","Arijit Singh, Sachin-Jigar, Amitabha Bhattacharya",3,178,6,64533040,6,71,1,0,31,100,E,Major,56,53,55,53,0,12,4,2023-05-15,2023-20
+69,"Nicky Jam, Feid",2,1134,22,57945987,39,14,48,2,3,93,G#,Major,79,58,62,11,0,11,23,2023-05-18,2023-20
+AMERICA HAS A PROBLEM (feat. Kendrick Lamar),"Kendrick Lamar, Beyonc�",2,896,0,57089066,34,2,33,0,1,126,C#,Major,78,20,70,1,0,16,4,2023-05-19,2023-20

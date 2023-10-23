@@ -1,0 +1,2 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Sparks,Coldplay,1,10826,4,624101957,24,0,805,0,0,103,C#,Major,37,17,27,75,5,10,3,2000-07-10,2000-28

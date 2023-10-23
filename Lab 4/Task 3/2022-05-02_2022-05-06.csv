@@ -1,0 +1,31 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Me Porto Bonito,"Chencho Corleone, Bad Bunny",2,8870,43,1440757818,104,120,141,26,49,92,C#,Minor,91,43,71,9,0,9,8,2022-05-06,2022-18
+Ojitos Lindos,"Bomba Est��reo, Bad B",2,6135,38,1133865788,71,113,99,13,28,80,D#,Minor,65,27,69,8,0,53,4,2022-05-06,2022-18
+Titi Me Pregunt�,Bad Bunny,1,9037,42,1264310836,124,133,139,14,166,107,F,Minor,65,19,72,10,0,13,25,2022-05-06,2022-18
+Efecto,Bad Bunny,1,4004,33,1047480053,34,65,43,6,2,98,G,Minor,80,23,48,14,0,6,5,2022-05-06,2022-18
+Thought You Should Know,Morgan Wallen,1,968,4,203221468,16,53,1,0,61,140,F#,Major,53,51,70,49,0,14,3,2022-05-06,2022-18
+Neverita,Bad Bunny,1,2590,30,671365962,20,64,35,6,0,122,A#,Major,88,43,50,7,0,14,5,2022-05-06,2022-18
+Moscow Mule,Bad Bunny,1,4572,33,909001996,74,113,85,9,2,100,F,Minor,80,29,67,29,0,12,3,2022-05-06,2022-18
+Tarot,"Bad Bunny, Jhay Cortez",2,2482,20,608228647,27,77,22,2,0,114,B,Minor,80,42,68,2,0,66,4,2022-05-06,2022-18
+Party,"Bad Bunny, Rauw Alejandro",2,3185,4,614555082,38,64,37,3,36,97,A,Major,83,47,80,2,0,24,9,2022-05-06,2022-18
+Despu��s de la P,Bad Bunny,1,2229,0,461558540,27,44,24,0,5,78,F,Major,56,61,90,36,0,18,31,2022-05-06,2022-18
+Un Ratito,Bad Bunny,1,1112,6,417230415,7,30,13,1,1,93,,Minor,79,22,55,31,0,12,5,2022-05-06,2022-18
+Yo No Soy Celoso,Bad Bunny,1,1179,0,313113297,7,21,11,0,0,142,,Major,87,93,59,28,0,17,5,2022-05-06,2022-18
+Me Fui de Vacaciones,Bad Bunny,1,1443,0,305650299,9,11,22,1,0,85,A#,Major,71,43,65,23,0,9,5,2022-05-06,2022-18
+La Corriente,"Tony Dize, Bad Bunny",2,1796,8,479655659,8,25,18,1,0,196,B,Minor,66,58,79,23,0,22,20,2022-05-06,2022-18
+Andrea,"Buscabulla, Bad Bunny",2,1195,0,344055883,8,30,13,1,1,103,C#,Minor,80,45,62,76,0,10,38,2022-05-06,2022-18
+Dos Mil 16,Bad Bunny,1,892,3,338422004,10,24,11,0,0,130,C#,Major,82,50,67,12,0,13,5,2022-05-06,2022-18
+Un Coco,Bad Bunny,1,1029,28,403231558,5,28,9,0,0,152,B,Major,84,74,69,21,0,18,6,2022-05-06,2022-18
+Otro Atardecer,"Bad Bunny, The Mar��",2,1681,7,319546754,10,30,13,0,33,108,D,Major,78,55,60,59,0,7,4,2022-05-06,2022-18
+Aguacero,Bad Bunny,1,829,0,283359161,4,15,10,0,0,121,F#,Minor,86,67,65,42,0,35,7,2022-05-06,2022-18
+Un Verano Sin Ti,Bad Bunny,1,1004,1,283332261,8,12,9,0,0,188,F,Minor,50,41,50,69,0,12,6,2022-05-06,2022-18
+Ens����ame ,Bad Bunny,1,1112,3,279737940,7,25,12,0,0,105,G#,Major,81,77,79,19,0,47,8,2022-05-06,2022-18
+El Apag�,Bad Bunny,1,1209,0,212351890,9,7,14,0,1,118,G#,Major,63,60,70,5,0,9,31,2022-05-06,2022-18
+Dua Lipa,Jack Harlow,1,1992,0,150500965,35,0,3,0,0,158,B,Major,83,41,65,0,10,11,8,2022-05-06,2022-18
+Agosto,Bad Bunny,1,897,0,246127838,6,20,8,0,0,115,C#,Minor,85,72,58,9,0,49,12,2022-05-06,2022-18
+I Tried to Tell Y'all,"Ugly Dray, Tesla Jnr",2,1657,0,121077868,15,3,3,0,0,96,B,Major,71,37,52,62,0,11,36,2022-05-06,2022-18
+FEARLESS,LE SSERAFIM,1,629,0,229497852,18,75,9,0,0,104,G,Major,86,43,62,5,0,13,14,2022-05-02,2022-18
+This Love (Taylor���s Ve,Taylor Swift,1,1492,0,132171975,26,2,15,0,2,144,E,Major,47,7,50,32,0,7,4,2022-05-06,2022-18
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,1,4576,0,448500832,79,13,93,0,17,160,G#,Minor,80,74,60,8,0,14,26,2022-05-06,2022-18
+Hold My Hand,Lady Gaga,1,2528,0,238350348,63,8,270,2,105,148,G,Major,51,21,63,5,0,41,3,2022-05-03,2022-18
+Afraid To Feel,LF System,1,5898,5,244790012,129,55,128,0,101,128,C#,Major,58,68,91,2,0,27,11,2022-05-02,2022-18

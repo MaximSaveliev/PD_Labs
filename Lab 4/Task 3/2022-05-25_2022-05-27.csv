@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+La Bachata,Manuel Turizo,1,6804,45,1214083358,139,111,161,15,210,125,G,Minor,84,85,68,58,0,22,4,2022-05-26,2022-21
+Potion (with Dua Lipa & Young Thug),"Calvin Harris, Dua Lipa, Young Thug",3,3983,0,190625045,73,45,119,0,0,100,B,Minor,82,76,70,16,0,8,5,2022-05-27,2022-21
+True Love,"Kanye West, XXXTENTACION",2,2129,0,194902696,23,1,44,1,0,84,F,Minor,71,39,86,2,0,51,25,2022-05-27,2022-21
+Die Young (feat. 347aidan),"Sleepy hallow, 347aidan",2,896,0,160845341,19,0,15,0,0,77,B,Major,81,68,58,83,0,11,34,2022-05-25,2022-21

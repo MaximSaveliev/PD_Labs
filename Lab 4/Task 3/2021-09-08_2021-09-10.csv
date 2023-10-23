@@ -1,0 +1,7 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Shivers,Ed Sheeran,1,10147,30,1302184087,234,71,543,18,,141,D,Major,79,82,86,28,0,4,9,2021-09-09,2021-36
+MONEY,Lisa,1,2566,13,863625566,44,109,131,0,,140,C#,Minor,83,40,55,16,0,14,23,2021-09-10,2021-36
+Toxic,BoyWithUke,1,1795,0,582981380,34,23,118,0,,180,G#,Minor,59,69,61,84,0,46,36,2021-09-10,2021-36
+Nost��l,"Chris Brown, Rvssian, Rauw Alejandro",3,2780,2,436695353,86,76,59,0,16,98,A,Minor,73,60,85,17,0,24,5,2021-09-08,2021-36
+Mon��y so,YEAT,1,1473,0,263779030,2,0,12,0,10,138,D,Major,69,35,57,12,0,10,9,2021-09-10,2021-36
+Angel Baby,Troye Sivan,1,1959,9,408843328,52,25,32,0,10,145,B,Major,56,41,57,1,0,13,3,2021-09-09,2021-36

@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+cardigan,Taylor Swift,1,7923,29,812019557,106,112,142,4,215,130,,Minor,61,53,58,55,0,27,4,2020-07-24,2020-29
+august,Taylor Swift,1,7324,22,607123776,25,81,61,1,44,90,F,Major,51,42,61,53,0,9,3,2020-07-24,2020-29
+Mood (feat. Iann Dior),"24kgoldn, Iann Dior",2,12854,0,1699402402,237,27,636,0,,91,G,Minor,70,76,72,22,0,27,4,2020-07-24,2020-29
+Excuses,"Intense, AP Dhillon, Gurinder Gill",3,272,4,327498031,7,21,2,0,0,95,F,Minor,84,49,72,8,0,15,8,2020-07-24,2020-29

@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Take My Breath,The Weeknd,1,2597,0,130655803,17,80,38,0,0,121,A#,Minor,70,35,77,1,0,26,4,2021-08-06,2021-31
+Volv�,"Aventura, Bad Bunny",2,5375,10,673801126,138,24,133,0,1,176,C#,Major,73,79,86,42,0,7,18,2021-08-03,2021-31
+Don't Be Shy,"Ti��sto, Kar",2,6026,0,566954746,171,51,187,1,21,120,B,Minor,77,51,79,20,0,26,6,2021-08-01,2021-31
+Take My Breath,The Weeknd,1,6392,0,432702334,174,73,344,0,0,121,G#,Major,75,53,74,2,0,11,5,2021-08-06,2021-31

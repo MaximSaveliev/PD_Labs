@@ -1,0 +1,8 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+I Wanna Be Yours,Arctic Monkeys,1,12859,110,1297026226,24,98,582,2,73,135,,Minor,48,44,42,12,2,11,3,2013-01-01,2013-00
+Counting Stars,OneRepublic,1,29215,43,2011464183,179,97,"3,394",11,153,122,C#,Minor,66,48,71,6,0,12,4,2013-01-01,2013-00
+Do I Wanna Know?,Arctic Monkeys,1,33783,26,1788326445,133,92,"2,733",1,26,85,F,Major,55,42,53,17,0,22,3,2013-01-01,2013-00
+Why'd You Only Call Me When You're High?,Arctic Monkeys,1,23389,29,1267333350,54,70,"1,089",2,1,92,D,Major,70,81,63,4,0,8,4,2013-01-01,2013-00
+Wake Me Up - Radio Edit,Avicii,1,50887,34,1970673297,315,160,"6,284",1,46,124,D,Major,53,66,78,0,0,16,5,2013-01-01,2013-00
+Get Lucky - Radio Edit,"Pharrell Williams, Nile Rodgers, Daft Punk",3,52898,0,933815613,203,1,"8,215",0,0,116,F#,Minor,79,87,81,4,0,10,4,2013-01-01,2013-00
+Bound 2,Kanye West,1,19806,7,703301727,33,11,274,0,0,149,C#,Major,37,28,66,14,0,9,5,2013-01-01,2013-00

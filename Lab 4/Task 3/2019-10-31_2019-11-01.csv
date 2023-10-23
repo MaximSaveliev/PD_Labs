@@ -1,0 +1,3 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Don't Start Now,Dua Lipa,1,27119,0,2303033973,532,77,"1,535",3,8,124,B,Minor,79,68,79,1,0,10,8,2019-10-31,2019-43
+Before You Go,Lewis Capaldi,1,8327,24,1608045237,205,130,625,0,25,112,D#,Major,45,19,60,63,0,9,6,2019-11-01,2019-43

@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Hey Mor,"Ozuna, Feid",2,4637,38,674072710,63,79,89,11,16,98,C#,Minor,90,40,59,0,0,10,29,2022-10-06,2022-40
+Gatita,Bellakath,1,1054,0,168684524,9,0,15,0,1,101,G,Major,90,76,81,15,24,33,6,2022-10-03,2022-40
+THE LONELIEST,M��ne,1,1585,5,225093344,78,65,328,1,198,130,D,Major,52,24,60,0,0,8,3,2022-10-07,2022-40

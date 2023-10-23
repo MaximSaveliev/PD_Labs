@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Don���t Bl,Taylor Swift,1,4875,23,685032533,19,45,0,0,10,136,A,Minor,62,19,53,11,0,6,4,2017-11-08,2017-45
+Cold Heart - PNAU Remix,"Dua Lipa, Elton John, Pnau",3,21097,52,1605224506,384,135,"1,034",37,312,116,C#,Major,80,92,80,4,0,10,3,2017-11-10,2017-45
+Merry Christmas,"Ed Sheeran, Elton John",2,2209,0,135723538,72,90,141,0,0,114,,Major,59,60,94,24,0,10,4,2017-11-10,2017-45
+Hold Me Closer,"Elton John, Britney Spears",2,4967,0,284216603,165,10,177,4,73,126,,Major,67,49,77,11,0,19,11,2017-11-10,2017-45

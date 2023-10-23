@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+La Bebe,Yng Lvcas,1,489,17,191945597,4,11,5,1,2,170,D,Minor,78,75,46,62,0,12,35,2021-12-24,2021-51
+Peru,"Ed Sheeran, Fireboy DML",2,2999,0,261286503,60,17,154,0,22,108,G,Minor,96,71,42,57,0,8,9,2021-12-23,2021-51
+Christmas Tree,V,1,509,9,317622165,8,106,6,0,8,139,F,Major,44,18,38,70,0,12,4,2021-12-24,2021-51
+SloMo,Chanel,1,1211,0,65719930,31,0,19,0,2,105,C#,Minor,73,59,81,13,0,9,6,2021-12-24,2021-51

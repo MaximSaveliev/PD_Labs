@@ -1,0 +1,8 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Summertime Sadness,Lana Del Rey,1,20333,52,983637508,89,143,"1,632",3,200,112,C#,Minor,56,24,66,7,0,12,3,2011-01-01,2011-00
+Set Fire to the Rain,Adele,1,14739,43,1163620694,88,112,"2,163",5,519,108,D,Minor,61,47,68,0,0,13,3,2011-01-01,2011-00
+Radio,Lana Del Rey,1,9389,46,284819874,24,122,282,3,368,150,D,Major,42,20,86,21,0,9,9,2011-01-01,2011-00
+We Found Love,"Rihanna, Calvin Harris",2,36843,21,1235005533,321,91,"4,607",1,58,128,C#,Major,73,60,77,3,0,11,4,2011-01-01,2011-00
+Bloody Mary,Lady Gaga,1,3909,0,372476382,66,26,277,3,734,100,A,Minor,59,49,65,2,0,13,3,2011-01-01,2011-00
+Mistletoe,Justin Bieber,1,9577,0,629173063,195,111,310,0,0,162,F#,Minor,67,88,54,51,0,9,4,2011-01-01,2011-00
+Somebody That I Used To Know,"Gotye, Kimbra",2,42798,0,1457139296,217,136,"6,508",1,,129,,Major,86,75,52,54,0,10,4,2011-01-01,2011-00

@@ -1,0 +1,4 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Ghost,Justin Bieber,1,5866,24,1167330737,107,38,95,0,,154,D,Major,61,41,74,21,0,40,6,2021-03-19,2021-11
+Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, Giveon",3,14140,0,1445941661,231,52,612,6,,90,,Major,63,49,68,38,0,42,18,2021-03-19,2021-11
+I WANNA BE YOUR SLAVE,M��ne,1,4873,0,851070493,65,88,434,3,13,133,C#,Major,75,96,61,0,0,18,4,2021-03-19,2021-11

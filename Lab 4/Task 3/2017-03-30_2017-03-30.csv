@@ -1,0 +1,3 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+Bored,Billie Eilish,1,4204,0,777765388,39,45,250,0,0,120,G,Major,60,11,33,90,0,8,5,2017-03-30,2017-13
+HUMBLE.,Kendrick Lamar,1,33206,1,1929770265,284,114,"1,481",0,5,150,C#,Minor,91,42,60,0,0,9,12,2017-03-30,2017-13

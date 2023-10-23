@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date,week
+vampire,Olivia Rodrigo,1,1397,113,140003974,94,207,91,14,949,138,F,Major,51,32,53,17,0,31,6,2023-06-30,2023-26
+MOJABI GHOST,"Tainy, Bad Bunny",2,859,40,61245289,35,109,41,14,211,122,F#,Minor,81,74,71,14,0,56,4,2023-06-29,2023-26
+TULUM,"Peso Pluma, Grupo Frontera",2,266,34,52294266,20,185,13,8,197,168,F#,Major,56,63,87,39,0,11,5,2023-06-28,2023-26
+Mi Bello Angel,Natanael Cano,1,86,8,31873544,7,76,3,1,93,128,A,Minor,81,90,77,1,0,9,5,2023-06-30,2023-26

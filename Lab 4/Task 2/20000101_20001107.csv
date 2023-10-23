@@ -1,0 +1,5 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness,release_date
+The Real Slim Shady,Eminem,1,2000,1,1,20763,27,1424589568,81,53,"3,271",1,17,104,F,Minor,95,78,66,3,0,4,6,2000-01-01
+In The End,Linkin Park,1,2000,10,24,25065,6,1624165576,63,0,"6,808",2,0,105,D#,Minor,55,40,90,1,0,32,6,2000-10-24
+My Only Wish (This Year),Britney Spears,1,2000,11,7,6952,0,261116938,115,53,286,0,0,147,,Major,67,69,72,17,0,19,3,2000-11-07
+Sparks,Coldplay,1,2000,7,10,10826,4,624101957,24,0,805,0,0,103,C#,Major,37,17,27,75,5,10,3,2000-07-10
