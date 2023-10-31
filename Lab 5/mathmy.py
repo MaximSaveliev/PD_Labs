@@ -68,7 +68,7 @@ class Math:
             float: Среднеквадратичная ошибка.
         """
         n = len(y)
-        squared_diff = (y - y_hat) ** 2
+        squared_diff = (np.array(y) - np.array(y_hat)) ** 2
         mse = np.sum(squared_diff) / n
         return mse
 
@@ -84,5 +84,5 @@ class Math:
             float: Значение функции потерь перекрестной энтропии.
         """
         output_size = len(y)
-        loss = -np.sum(y * np.log(y_hat) + (1 - y) * np.log(1 - y_hat)) / output_size
+        loss = -np.sum(y * np.log(y_hat) + (1 - np.array(y)) * np.log(1 - np.array(y_hat))) / output_size
         return loss
